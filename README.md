@@ -6,7 +6,6 @@ Avant de se lancer dans Vue, il est important de connaître un certain nombre de
 C'est un tutoriel TRÈS complet, si jamais il y a des choses que tu connais déjà un peu n'hésite pas à les ignorer pour avancer.
 
 Concepts plus précis, souvent utilisés.
-
 https://medium.com/geekculture/7-js-concepts-to-master-a71f33d676f3
 
 # Apprendre Git 
