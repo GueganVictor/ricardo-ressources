@@ -57,6 +57,9 @@ Bonnes pratiques :
 Architecture : 
 https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/
 
+DTOs, le tuto est en Java et non en Javascript mais le principe reste le même : 
+https://www.baeldung.com/java-dto-pattern
+
 # Aller plus loin : 
 
 Faire de la veille technologique sur Vue mais aussi d'autres topics : 
