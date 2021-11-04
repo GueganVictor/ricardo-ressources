@@ -1,3 +1,19 @@
+# JavaScript
+
+Avant de se lancer dans Vue, il est important de connaître un certain nombre de chose sur JavaScript : 
+- https://javascript.info/
+
+C'est un tutoriel TRÈS complet, si jamais il y a des choses que tu connais déjà un peu n'hésite pas à les ignorer pour avancer.
+
+Concepts plus précis, souvent utilisés.
+
+https://medium.com/geekculture/7-js-concepts-to-master-a71f33d676f3
+
+# Apprendre Git 
+
+Un bon tuto pour comprendre comment fonctionne Git et utiliser GitHub. 
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 # Apprendre Vue 
 
 ## Niveau débutant
