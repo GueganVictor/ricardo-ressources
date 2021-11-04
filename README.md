@@ -54,6 +54,9 @@ Le store permettant de centraliser certaines données :
 
 Bonnes pratiques : 
 
+JS best practices :
+https://www.w3schools.com/js/js_best_practices.asp
+
 Architecture : 
 https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/
 
